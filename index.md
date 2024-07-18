@@ -7,3 +7,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Crear primer encabezado
+- [x] Insertar imagen
+- [x] Insertar código
+- [ ] Finalizar curso 
